@@ -19,3 +19,6 @@ lazy_static = "1.0.2"
 
 [dependencies.parsing]
 path = "parsing"
+
+[dependencies.weechat-lib]
+path = "weechat-lib"
